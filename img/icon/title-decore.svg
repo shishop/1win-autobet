@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="22px" viewBox="0 0 25 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-490.000000, -559.000000)" fill="#00C4FF">
+            <g id="Group-2" transform="translate(490.000000, 555.000000)">
+                <g id="Group" transform="translate(0.000000, 4.000000)">
+                    <g>
+                        <rect fill="url(#paint0_linear)" id="Rectangle" fill-rule="nonzero" x="9" y="0" width="4" height="22"></rect>
+                        <rect fill="url(#paint0_linear)" id="Rectangle-Copy-2" fill-rule="nonzero" x="4" y="0" width="2" height="22"></rect>
+                        <rect fill="url(#paint0_linear)" id="Rectangle-Copy-3" fill-rule="nonzero" x="0" y="0" width="2" height="22"></rect>
+                        <rect fill="url(#paint0_linear)" id="Rectangle-Copy" fill-rule="nonzero" x="17" y="0" width="8" height="22"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="paint0_linear" x1="17.172" y1="6.37362" x2="17.172" y2="30.602" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#2289e4"/>
+            <stop offset="1" stop-color="#00a0fb"/>
+        </linearGradient>
+    </defs>
+</svg>

@@ -1,0 +1,14 @@
+User-agent: Yandex
+Disallow: /reg
+
+User-agent: Googlebot
+Disallow: /reg
+
+User-agent: Mail.Ru
+Disallow: /reg
+
+User-agent: *
+Disallow: /reg
+
+Host: https://1win-autobet.ru
+Sitemap: https://1win-autobet.ru/sitemap.xml
