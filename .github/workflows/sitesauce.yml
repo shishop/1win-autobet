@@ -1,0 +1,18 @@
+name: Sitesauce
+
+on:
+  workflow_dispatch:
+    inputs:
+      config:
+        required: true
+
+jobs:
+  Sitesauce:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: sitesauce/action@v1
+        with:
+          config: ${{ github.event.inputs.config }}
