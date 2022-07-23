@@ -10,5 +10,5 @@ Disallow: /reg
 User-agent: *
 Disallow: /reg
 
-Host: https://1win-autobet.ru
-Sitemap: https://1win-autobet.ru/sitemap.xml
+Host: https://bet.1win-website.com
+Sitemap: https://bet.1win-website.com/sitemap.xml
